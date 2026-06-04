@@ -1,0 +1,7 @@
+/bin/
+/lib/
+/pom_temp.xml
+.settings/
+.classpath
+.project
+*.class
